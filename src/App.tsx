@@ -1,5 +1,6 @@
 "use client";
 import { useState } from "react";
+import "./App.css";
 
 export default function Page() {
   const [noCount, setNoCount] = useState(0);
