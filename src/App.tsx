@@ -39,6 +39,20 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <span className="mes">
+            Babe, you know what I've been up to when we're not chatting? Well,
+            every day, I've been making memories that are just waiting to be
+            shared with you. These aren't just ordinary moments; they're the
+            kind that stick with you forever. They're like little love notes
+            I've been storing up, just for us. And you know what? I can't wait
+            to spill all the beans and let everybody know just how amazing you
+            make my days. So get ready, because it's going to be one heck of a
+            Valentine's Day filled with all the love and memories we've been
+            building together!
+          </span>
+          <a href="https://www.instagram.com/_r_ando_m?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+            click me!!!
+          </a>
         </>
       ) : (
         <>
